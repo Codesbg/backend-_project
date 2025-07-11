@@ -1,0 +1,7 @@
+// ye rakhega kispe nahi lagana hai pretier
+/.vscode
+/.node_modules
+./dist
+*.env
+.env
+.env.*
